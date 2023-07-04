@@ -2,7 +2,7 @@
 
 I'm Niaz Khan, and I'm currently enrolled in the prestigious Per Scholas AWS Re/Start training program. My main goal is to obtain the coveted AWS Solutions Architect certification, and I'm excited to showcase my journey here.
 - 🔍 <b>Explore My Repositories:</b>
-  Feel free to browse through my repositories to get a glimpse of my projects and the skills I've been developing. I'm constantly updating them with new and exciting code, so make sure to check back often!<br><br>
+  Feel free to browse through my repositories to get a glimpse of my projects and the skills I've been developing. I'm constantly updating them with new and exciting projects, so make sure to check back often!<br><br>
 - 🌟 <b>Seeking a Dynamic Opportunity:</b> 
 I have a strong passion for technology and a hunger for growth. I'm actively seeking opportunities to join a dynamic company where I can apply my knowledge and skills, while also learning and growing along the way. If you know of any exciting openings or would like to connect, don't hesitate to reach out!<br><br>
 - 🌱 <b>Continuous Learning and Certifications:</b>
