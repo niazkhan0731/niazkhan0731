@@ -1,4 +1,4 @@
-👋 Hello there! Welcome to my GitHub repository!</center>
+👋 Hello there! Welcome to my GitHub repository!
 
 I'm Niaz Khan, and I'm currently enrolled in the prestigious Per Scholas AWS Re/Start training program. My main goal is to obtain the coveted AWS Solutions Architect certification, and I'm excited to showcase my journey here.
 - 🔍 <b>Explore My Repositories:</b>
