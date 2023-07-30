@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to my GitHub repository!
 
-I'm Niaz Khan, and I'm currently enrolled in the prestigious Per Scholas AWS Re/Start training program. My main goal is to obtain the coveted AWS Solutions Architect certification, and I'm excited to showcase my journey here.
+Allow me to introduce myself, I am Niaz Khan. Currently, I hold a certification as an IT Support professional, and I'm also on the verge of obtaining my AWS Cloud Practitioner certification. Moreover, I am dedicated to learning how to code proficiently and implementing effective solutions using cutting-edge technology. I invite you to join me on this journey and witness my continuous growth as I constantly upskill and enhance my abilities.
 - 🔍 <b>Explore My Repositories:</b>
   Feel free to browse through my repositories to get a glimpse of my projects and the skills I've been developing. I'm constantly updating them with new and exciting projects, so make sure to check back often!<br><br>
 - 🌟 <b>Seeking a Dynamic Opportunity:</b> 
