@@ -6,7 +6,7 @@ My name is Niaz Khan. Currently, I hold several certifications as an IT Support,
 - 🌟 <b>Seeking a Dynamic Opportunity:</b> 
 I have a strong passion for technology and a hunger for growth. I'm actively seeking opportunities to join a dynamic company where I can apply my knowledge and skills, while also learning and growing along the way. If you know of any exciting openings or would like to connect, don't hesitate to reach out!<br><br>
 - 🌱 <b>Continuous Learning and Certifications:</b>
-I believe in the power of continuous learning and staying up-to-date with the latest advancements. Currently, I am certified in Google IT Support and Project Management. However, my learning journey doesn't stop there—I'm always striving to expand my knowledge and add more certifications to my repertoire.<br><br>
+I believe in the power of continuous learning and staying up-to-date with the latest advancements. Currently, I am certified in multiple tech-related fields. However, my learning journey doesn't stop there — I'm always striving to expand my knowledge and add more certifications and hands-on projects to my repertoire.<br><br>
 - 💞️ <b>Collaboration and Networking:</b>
 I'm a firm believer in the strength of collaboration and the power of teamwork. I'm open to collaborating on exciting projects, brainstorming innovative ideas, or contributing to meaningful initiatives. If you have a project in mind and think we can make a great team, don't hesitate to reach out!<br><br>
 - 📫 <b>Let's Connect!</b>
