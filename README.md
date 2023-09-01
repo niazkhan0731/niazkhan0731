@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to my GitHub repository!
 
-My name is Niaz Khan. Currently, I hold several certifications as an IT Support, Cloud Practitioner, and Project Management professional. Moreover, I am dedicated to learning how to code proficiently in both front-end and back-end development as I pursue my bachelor's degree in Computer Science. I am also committed to implementing effective solutions using cutting-edge technology. I invite you to join me on this journey and witness my continuous growth as I constantly upskill and enhance my abilities.
+My name is Niaz Khan. Currently, I hold several certifications as an IT Support, Cloud Practitioner, and Project Management professional. Moreover, I am dedicated to creating new projects proficiently in both front-end and back-end development as I pursue my bachelor's degree in Computer Science. I am also committed to implementing effective solutions using cutting-edge technology. I invite you to join me on this journey and witness my continuous growth as I constantly upskill and enhance my abilities.
 - 🔍 <b>Explore My Repositories:</b>
   Feel free to browse through my repositories to get a glimpse of my projects and the skills I've been developing. I'm constantly updating them with new and exciting projects, so make sure to check back often!<br><br>
 - 🌟 <b>Seeking a Dynamic Opportunity:</b> 
